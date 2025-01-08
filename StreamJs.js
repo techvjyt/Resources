@@ -1,6 +1,3 @@
-//jaldi yeha se hato
-// (c) lord krishna (c) biisal
-
 async function getDets() {
     let randPage = Math.floor(1 + Math.random() * 100)
     const apiKey = '6abcb6bb99fb77f33c37016a28866ed2';
@@ -49,7 +46,7 @@ let footer = document.querySelector('footer')
 let timer = 0
 
 if (document.getElementById("heading").classList.contains("title")) {
-    document.querySelector(".title").textContent = 'BISAL FILES'
+    document.querySelector(".title").textContent = 'VJ DISK'
 }
 
 // adding under in home btn at first 
